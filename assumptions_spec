@@ -1,0 +1,11 @@
+1. Assumptions
+	To run the test properly, the condition expected is:
+•	Tester is not logged in into tiket.com
+•	Tester didn’t use the same contact person for completing test (Otherwise, it will run the exceptions)
+
+2. Specifications
+•	Visual studio code (what I’m using right now)/command prompt/other compiler to compile the code
+•	To run the test, first we need to install Selenium & ChromeDriver
+•	Selenium installation documentation : https://selenium-python.readthedocs.io/installation.html
+•	ChromeDriver download : https://chromedriver.chromium.org/downloads
+•	Or https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver (For Windows user, download chocolatey first on https://chocolatey.org/install.)
